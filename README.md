@@ -1,2 +1,0 @@
-# Hightech
-Website
